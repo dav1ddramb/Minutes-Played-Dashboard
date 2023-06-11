@@ -1,2 +1,2 @@
-# minutes_played_dashboard
+# Minutes-Played-Dashboard
 Minutes Played Dashboard
